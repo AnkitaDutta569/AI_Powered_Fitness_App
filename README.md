@@ -74,4 +74,17 @@ The backend system consists of the following services:
 ---
 
 ## 📂 Repository Structure
+AI_Powered_Fitness_App/
+├─ api-gateway/
+│ ├─ src/
+│ └─ pom.xml
+├─ user-service/
+│ ├─ src/
+│ └─ pom.xml
+├─ activity-service/
+│ ├─ src/
+│ └─ pom.xml
+├─ ai-service/
+│ ├─ src/
+│ └─ pom.xml
 
